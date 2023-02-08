@@ -4,20 +4,19 @@ body {
 }
 
 .caixa {
-    width: 940px;
+
+    position: relative;
  }
-
-nav {
-
-}
-
-.display {
-    display: inline-block;
-}
 
 .logo {
     height: 25px;
     width: auto;
+}
+
+nav ul {
+    position: absolute;
+    top: 5px;
+    left: 120px;
 }
 
 nav li {
@@ -35,6 +34,12 @@ nav a {
 nav img {
     height: 35px;
     width: auto;
+}
+
+.perfis {
+    position: absolute;
+    right: 18px;
+    top: 3px;
 }
 
 .subtitulo {
