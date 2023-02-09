@@ -25,8 +25,8 @@ nav li {
 }
 
 nav a {
-    font-family:'Arial Narrow', Arial, sans-serif;
-    font-weight: bold;
+    font-size: 14px;
+    font-family:'Arial';
     color: #e7e1e1;
     text-decoration: none;
 }
