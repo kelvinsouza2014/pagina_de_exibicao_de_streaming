@@ -55,8 +55,13 @@ nav img {
 }
 
 .imagem {
+    width: 220px;
+    height: 122px;
+}
+
+.imagem:hover {
     width: 229px;
-    height: 131px;
+    height: auto;
 }
 
 .linha-de-colunas-1 ul {
